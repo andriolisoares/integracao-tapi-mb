@@ -17,8 +17,8 @@ Linguagens disponíveis (até o momento):
 - [Ruby](https://www.ruby-lang.org)
 
 APIs do Mercado Bitcoin:
-[API de Negociações](https://www.mercadobitcoin.com.br/trade-api)
-[API de Dados](https://www.mercadobitcoin.com.br/api-doc)
+- [API de Negociações](https://www.mercadobitcoin.com.br/trade-api)
+- [API de Dados](https://www.mercadobitcoin.com.br/api-doc)
 
 Visite também a Central de Ajuda para saber como gerar sua Chave e Segredo:
 [Central de Ajuda](https://suporte.mercadobitcoin.com.br/hc/pt-br)
